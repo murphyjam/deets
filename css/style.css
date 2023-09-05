@@ -4,6 +4,8 @@ header {
     margin: 0;
   }
 
+
+
 .headerblue {
         width: 100%;
         height: 200px;
@@ -49,11 +51,10 @@ font-size: large;
 display:none;
 height: 500px;
 text-align: center;
-background-image: url(../images/bateman.png);
+background-image: url(https://media.giphy.com/media/3YuR0bdGXlP6U/giphy.gif);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
-    opacity: .8;
     
 }
 
